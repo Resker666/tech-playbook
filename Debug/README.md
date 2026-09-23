@@ -4,7 +4,7 @@
 
 ## Contents
 
-后续持续补充。
+- [LB15i / ASR1803 路由器调试与固件分析复盘](./Embedded/LB15i_ROUTER_RESEARCH_REPORT.md)
 
 ## Topics
 
