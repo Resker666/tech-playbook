@@ -8,6 +8,7 @@
 - [Git Patch 使用指南](./Git-Patch-使用指南.md)
 - [git common command](./git-common-commands.md)
 - [Git Clone 在弱网环境下卡住的排查与解决](./git-clone-network-troubleshooting.md)
+- [Git 大文件误提交后的历史清理实战](./git-large-file-history-cleanup.md)
 
 ## Topics
 
