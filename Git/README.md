@@ -7,6 +7,7 @@
 - [GitHub 多账号 SSH 配置](./github-multi-account-ssh-guide.md)
 - [Git Patch 使用指南](./Git-Patch-使用指南.md)
 - [git common command](./git-common-commands.md)
+- [Git Clone 在弱网环境下卡住的排查与解决](./git-clone-network-troubleshooting.md)
 
 ## Topics
 
