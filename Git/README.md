@@ -9,6 +9,9 @@
 - [git common command](./git-common-commands.md)
 - [Git Clone 在弱网环境下卡住的排查与解决](./git-clone-network-troubleshooting.md)
 - [Git 大文件误提交后的历史清理实战](./git-large-file-history-cleanup.md)
+- [pc-win生成 SSH 密钥放到github上](./pc-win生成SSH密钥放到github上.md)
+- [服务器生成ssh key用来拉去代码](./服务器生成ssh-key用来拉去代码.md)
+
 
 ## Topics
 
