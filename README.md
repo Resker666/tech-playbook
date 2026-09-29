@@ -90,6 +90,20 @@ Linux Server / VPS 的部署、配置和维护。
 
 ---
 
+### [AI Workflows](./ai-workflows/)
+
+AI 辅助开发、排障、学习与工程协作方法。
+
+包括：
+
+- AI 辅助工程工作流
+- AI Debug / Troubleshooting
+- Prompt 模板
+- AI Code Review
+- AI 学习与能力训练
+
+---
+
 ## 🧭 Repository Structure
 
 ```text
@@ -99,4 +113,5 @@ tech-playbook/
 ├── Git/
 ├── Linux/
 ├── Server/
+├── ai-workflows/
 └── README.md
