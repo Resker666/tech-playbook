@@ -43,6 +43,21 @@ Linux 开发过程中常用的命令、工具和技巧。
 
 ---
 
+### [Windows](./Windows/)
+
+Windows 日常使用、开发环境配置、系统信息查看和问题排查。
+
+包括：
+
+- CMD / PowerShell
+- Windows 版本与 Build
+- 系统信息
+- 服务管理
+- 网络排查
+- 开发环境
+
+---
+
 ### [Git](./Git/)
 
 Git 与 GitHub 的使用、配置以及问题排查。
@@ -112,6 +127,8 @@ tech-playbook/
 ├── Docker/
 ├── Git/
 ├── Linux/
+├── Windows/
 ├── Server/
 ├── ai-workflows/
 └── README.md
+```
