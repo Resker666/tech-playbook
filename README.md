@@ -119,6 +119,14 @@ AI 辅助开发、排障、学习与工程协作方法。
 
 ---
 
+### [English](./English/)
+
+程序员英语词汇积累，重点记录 GitHub、技术文档与日常开发沟通中的高频表达。
+
+- [Vocabulary · 词汇笔记](./English/vocabulary.md)
+
+---
+
 ## 🧭 Repository Structure
 
 ```text
@@ -130,5 +138,6 @@ tech-playbook/
 ├── Windows/
 ├── Server/
 ├── ai-workflows/
+├── English/
 └── README.md
 ```
