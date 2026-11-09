@@ -23,6 +23,20 @@ Windows 开机后自动弹出 `amdafdapp.exe` / Terminal 窗口的问题排查�
 
 ---
 
+### [codex-ubuntu-ssh-troubleshooting.md](./codex-ubuntu-ssh-troubleshooting.md)
+
+Codex Desktop 无法通过 SSH 连接本地 Ubuntu 虚拟机的排障与修复记录（已匿名化）。
+
+主要涉及：
+
+- Windows OpenSSH / VMware Ubuntu
+- SSH 密码认证与非交互式公钥认证
+- `BatchMode=yes` 故障定位
+- Ed25519 独立密钥与 `ssh_config`
+- Codex 远程连接恢复验证
+
+---
+
 ## Topics
 
 后续可能继续补充：
