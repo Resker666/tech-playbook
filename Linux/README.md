@@ -7,6 +7,7 @@
 - [文件与目录](./file-directory.md)
 - [ELF 文件格式与嵌入式 Linux 排查速查](./elf-file-format.md)
 - [VMware Ubuntu 虚拟机磁盘扩容](./vmware-ubuntu-disk-expansion.md)
+- [VMware 虚拟机提示正在使用或获取所有权失败（Windows 宿主机）](../Debug/Windows/vmware-workstation-vm-lock.md)
 
 ## Topics
 

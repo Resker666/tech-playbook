@@ -37,6 +37,12 @@ Codex Desktop 无法通过 SSH 连接本地 Ubuntu 虚拟机的排障与修复�
 
 ---
 
+### [vmware-workstation-vm-lock.md](./vmware-workstation-vm-lock.md)
+
+Windows 重启后 VMware Workstation 提示虚拟机正在使用、获取所有权失败的排查记录，涵盖 `.lck` 残留锁和 Windows 文件占用。
+
+---
+
 ## Topics
 
 后续可能继续补充：
