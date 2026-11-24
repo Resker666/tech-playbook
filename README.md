@@ -127,6 +127,14 @@ AI 辅助开发、排障、学习与工程协作方法。
 
 ---
 
+### [Tools](./Tools/)
+
+跨平台软件工具使用技巧、网页与浏览器配置以及效率优化经验。
+
+- [Google 网页服务语言切换技巧](./Tools/google-language-settings.md)
+
+---
+
 ## 🧭 Repository Structure
 
 ```text
@@ -139,5 +147,6 @@ tech-playbook/
 ├── Server/
 ├── ai-workflows/
 ├── English/
+├── Tools/
 └── README.md
 ```
