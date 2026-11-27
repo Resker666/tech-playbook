@@ -5,6 +5,7 @@
 ## Contents
 
 - [查看 Windows 版本](./windows-version.md)
+- [CPU 架构与软件版本选择（x86 / x64 / ARM64）](./cpu-architecture.md)
 - [使用 DiskPart 重建 SD 卡分区并格式化](./diskpart-sd-card-rebuild.md)
 
 ## Topics
