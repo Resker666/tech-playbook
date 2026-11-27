@@ -4,6 +4,8 @@
 
 ## Contents
 
+- [GitHub 默认分支保护与批量管理](./github-rulesets/README.md)
+
 - [GitHub 多账号 SSH 配置](./github-multi-account-ssh-guide.md)
 - [Git Patch 使用指南](./Git-Patch-使用指南.md)
 - [Git checkout 与 switch：区别及使用场景](./checkout-vs-switch.md)
